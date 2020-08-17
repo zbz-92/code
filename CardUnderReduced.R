@@ -1,7 +1,4 @@
 # PRELIMINARY ----
-## Set the working directory
-setwd("C:/Users/00131045/Documents/FutureReady/Challenge Cards")
-
 ## Install packages
 library(data.table)
 library(randomForestSRC)
